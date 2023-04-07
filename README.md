@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+#### Muito mais do que um portfólio para empresas, aqui você encontra uma jornada de desenvolvimento que envolve conhecimento, auto-conhecimento e muito suor. Bem vindo, vinda e vinde 
+
 <!--
 **DanilloHildebrando/DanilloHildebrando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
