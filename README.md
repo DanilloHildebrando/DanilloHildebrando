@@ -1,4 +1,4 @@
-### Hi there 👋 (Em processo de organização: Durante aproximadamente um ano venho guardando os resultados de meus estudos neste GitHub, agora que possuo mais conhecimentos estou organizando ele para ser apresentado, de fato, como um portfólio organizado)
+### Hi there 👋 (Em processo de organização: No decorrer de um ano guardei os resultados de meus estudos neste GitHub, agora que possuo mais conhecimentos estou organizando ele para ser apresentado, de fato, como um portfólio)
 
 #### Muito mais do que um portfólio para empresas, aqui você encontra uma jornada de desenvolvimento que envolve conhecimento, auto-conhecimento e muito suor. Bem vindo, vinda e vinde 
 
